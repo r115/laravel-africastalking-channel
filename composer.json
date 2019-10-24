@@ -1,0 +1,14 @@
+{
+    "name": "r115/laravel-africastalking-channel",
+    "description": "An sms channel using the africastalking api",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bernard Nandwa",
+            "email": "bernard.nandwa@andela.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
